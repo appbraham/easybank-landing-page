@@ -112,6 +112,8 @@ a {
   background-image: url("../images/bg-intro-mobile.svg");
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: right top;
+  ;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -426,11 +428,13 @@ footer {
     gap: 40px;
     background-position: 600px -280px;
     background-size: cover;
+    /* overflow: hidden; */
   }
   
   .hero__section img {
     top: 0;
     right: -200px;
+
   }
 
   .hero__content {

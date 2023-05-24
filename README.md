@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/desktop.png)
+![](./screenshot/mobile.png)
 
 - Solution URL: [https://github.com/appbraham/easybank-landing-page.git](https://github.com/appbraham/easybank-landing-page.git)
 - Live Site URL: [https://easybank-landing-page-three-virid.vercel.app/](https://easybank-landing-page-three-virid.vercel.app/)
